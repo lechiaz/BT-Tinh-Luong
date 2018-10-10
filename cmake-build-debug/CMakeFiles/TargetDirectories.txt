@@ -1,0 +1,3 @@
+F:/project_C/learn/BT2/cmake-build-debug/CMakeFiles/BT2.dir
+F:/project_C/learn/BT2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/project_C/learn/BT2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
